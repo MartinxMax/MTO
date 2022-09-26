@@ -7,9 +7,29 @@
 
 ```#python3 Server.py```
 
+    
 ![图片名称](https://raw.githubusercontent.com/MartinxMax/STM32_Remote-control-/master/%C2%96%C2%96Demo_image/Server.png "Help")
 
 
 * Device connection server
 
-![图片名称](https://github.com/MartinxMax/STM32_Remote-control-/blob/master/%C2%96%C2%96Demo_image/head2.png "Help")
+    ![图片名称](https://github.com/MartinxMax/STM32_Remote-control-/blob/master/%C2%96%C2%96Demo_image/head2.png "Help")
+
+* Set a point A
+
+    ![图片名称](https://github.com/MartinxMax/STM32_Remote-control-/blob/master/%C2%96%C2%96Demo_image/A.png?raw=true "Help")
+
+* Client sends command
+
+```#python3 Client.py```
+
+    ![图片名称](https://raw.githubusercontent.com/MartinxMax/STM32_Remote-control-/master/%C2%96%C2%96Demo_image/return.png "Help")
+
+* The server forwards traffic
+
+    ![图片名称](https://raw.githubusercontent.com/MartinxMax/STM32_Remote-control-/master/%C2%96%C2%96Demo_image/run.png "Help")
+
+* STM32 receives the data and drives the stepping motor
+
+    ![图片名称](https://raw.githubusercontent.com/MartinxMax/STM32_Remote-control-/master/%C2%96%C2%96Demo_image/B.png "Help")
+
