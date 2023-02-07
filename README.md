@@ -1,8 +1,30 @@
-# STM32 controls stepping motor via internet
-
-* Python version 3.6 or above
-* Internet control
-* Compatible with Windows or Linux
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=STM32+Remote+control+stepper+motor.;&font=Roboto" />
+ <p align="center">
+ <img title="MDOG_GGB" src='https://img.shields.io/badge/MTO-2.0-brightgreen.svg' />
+ <img title="MDOG_GGB" src='https://img.shields.io/badge/Python-3.9-yellow.svg' />
+ <img title="MDOG_GGB" src='https://img.shields.io/static/v1?label=Author&message=@Martin&color=red'/>
+ 
+ </p>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MartinXMax&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  
+   
+ <table>
+  <tr>
+      <th>Internet Control</th>
+  </tr>
+  <tr>
+    <th>Server:Traffic forwarding</th>
+  </tr>
+  <tr>
+    <th>Controlled end</th>
+  </tr>
+  <tr>
+    <th>Control terminal</th>
+  </tr>
+ 
+ </table>
+</div>
 
 ## Wiring schematic diagram
 
